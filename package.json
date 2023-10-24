@@ -1,0 +1,8 @@
+{
+  "name": "zkapp-world",
+  "type": "module",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "@zkapp-world/actions-reducers",
+    "main": "src/index.ts",
+    "module": "src/index.js",
+    "type": "module",
+    "peerDependencies": {
+      "typescript": "^5.0.0"
+    },
+    "dependencies": {
+      "o1js": "^0.13.1"
+    }
+  }
