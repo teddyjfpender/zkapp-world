@@ -1,5 +1,5 @@
 {
-    "name": "@zkapp-world/actions-reducers",
+    "name": "@zkapp-world/starter-contract",
     "main": "src/index.ts",
     "module": "src/index.js",
     "type": "module",
